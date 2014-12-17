@@ -39,4 +39,3 @@ jimport('joomla.user.helper');
     $new_user_id = $user->id;
 
     echo $output;
-?>
