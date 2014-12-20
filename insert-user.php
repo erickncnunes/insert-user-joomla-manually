@@ -51,7 +51,7 @@ jimport('joomla.user.helper');
 	{
 		$new_user_id = $user->id;
 		$success = 'true';
-		$msg = '';
+		$msg = 'Usuário cadastrado com sucesso';
 	}
 	//Pegando retorno REST na integração com um sistema
 	//echo '<retorno><success>' . $success . '</success><msg>' . $msg . '</msg></retorno>';
